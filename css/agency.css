@@ -44,6 +44,11 @@ h6 {
 .img-centered {
   margin: 0 auto;
 }
+.icon-responsive {
+  display: block;
+  width: 4em;
+  height: auto;
+}
 .bg-light-gray {
   background-color: #f7f7f7;
 }
