@@ -213,7 +213,6 @@ header {
 }
 
 .oscurecer{background-color:rgba(0,0,0,0.5);}
-
 // Global Section Styles
 
 section {
